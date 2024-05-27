@@ -1,0 +1,5 @@
+VISIT_CREATE_SUCCESS = "Visit created successfully"
+INVALID_PHONE_NUMBER = "The worker's phone number does not match the unit's worker."
+INVALID_WORKER_PHONE_NUMBER = "Worker with the provided phone number does not exist."
+LIST_OF_UNITS_LINKED_TO_SPECIFIED_WORKER_SUCCESS = "List of units linked to the specified worker retrieved successfully."
+UNAUTHORIZED_USER = "Unauthorized user."
